@@ -1,0 +1,4 @@
+﻿  linkedlist.cpp
+c:\users\icoy\documents\practice code\linkedlist\linkedlist\linkedlist.cpp(136): warning C4715: 'deleteNode': not all control paths return a value
+  linkedlist.vcxproj -> C:\Users\Icoy\Documents\Practice Code\linkedlist\Debug\linkedlist.exe
+  linkedlist.vcxproj -> C:\Users\Icoy\Documents\Practice Code\linkedlist\Debug\linkedlist.pdb (Full PDB)
